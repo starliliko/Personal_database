@@ -1,0 +1,16 @@
+# Operating systems
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.tmp
+~$*
+
+# Local working files
+.cache/
+.temp/
+temp/
